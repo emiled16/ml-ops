@@ -1,4 +1,4 @@
-#!/mnt/c/Users/emili/dev/ml-ops/chap1/venv/bin/python3
+#!/mnt/c/users/emili/dev/ml-ops/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
